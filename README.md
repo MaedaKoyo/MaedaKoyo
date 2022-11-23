@@ -36,14 +36,7 @@ Here are some ideas to get you started:
       height="60"
     />
   </a>　
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      width="60"
-      height="60"
-    />
-  </a>　
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
       alt="express"
@@ -71,7 +64,14 @@ Here are some ideas to get you started:
       height="60"
     />
   </a>　
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="60"
+      height="60"
+    />
+  </a>　
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -79,12 +79,21 @@ Here are some ideas to get you started:
       width="60"
       height="60"
     />
-  </a>　
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       width="60"
+      height="60"
+    />
+  </a>　
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://spin.atomicobject.com/wp-content/uploads/prisma.jpg.jpg"
+      alt="prisma"
       height="60"
     />
   </a>　
@@ -96,17 +105,14 @@ Here are some ideas to get you started:
       height="60"
     />
   </a>　
-
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
       width="60"
       height="60"
-      style="margin-right: 20px;"
     />
-  </a>
-
+  </a>　
 </p>
 <br/>
 
