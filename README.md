@@ -100,9 +100,18 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="#">
+    <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true"/>
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
+</a>
 
 <h3 align="left">Summary</h3>
 
