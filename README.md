@@ -100,7 +100,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Summary</h3>
+
 [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
