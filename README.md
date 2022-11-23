@@ -99,23 +99,51 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
+</br>
 
-<p align="left">
-  <a href="#">
-    <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react" />
-  </a>
-  <a href="#">
-    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true"/>
-  </a>
-</p>
 
-<a href="#">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
-</a>
 
 <h3 align="left">Summary</h3>
 
-[![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+  <a href="#">
+    <img alt="Top Languages Card" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Status Card" height="160px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true"/>
+  </a>
+</p>
+</br>
+
+
+<a href="#">
+  <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
+</a>
+</br>
+
+
+
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/0-profile-details.svg" height="180px" />
+  </a>
+</p>
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="180px" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="180px" />
+  </a>
+</p>
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" height="180px" />
+  </a>
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" height="180px" />
+  </a>
+</p>
+
+
 
