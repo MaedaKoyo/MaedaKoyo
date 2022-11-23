@@ -99,7 +99,7 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-</br>
+<br/>
 
 
 
@@ -113,13 +113,14 @@ Here are some ideas to get you started:
     <img alt="GitHub Status Card" height="160px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true"/>
   </a>
 </p>
-</br>
+<br/>
 
 
 <a href="#">
   <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
 </a>
-</br>
+<br />
+<br />
 
 
 
