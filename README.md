@@ -155,3 +155,5 @@ Here are some ideas to get you started:
     <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" height="180px" />
   </a>
 </p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=600)
