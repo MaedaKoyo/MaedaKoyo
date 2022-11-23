@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Koyo Maeda</h1>
 <h3 align="center">A student</h3>
 
-<p align="left"></p>
+<br/>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -24,16 +24,26 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
       alt="nestjs"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
+    />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a
@@ -44,16 +54,18 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
 
@@ -61,24 +73,27 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="php"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
 
@@ -86,22 +101,22 @@ Here are some ideas to get you started:
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
+      style="margin-right: 20px;"
     />
   </a>
 </p>
 <br/>
-
-
 
 <h3 align="left">Summary</h3>
 
@@ -115,14 +130,11 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-
 <a href="#">
   <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
 </a>
 <br />
 <br />
-
-
 
 <p align="left">
   <a href="#">
@@ -145,6 +157,3 @@ Here are some ideas to get you started:
     <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" height="180px" />
   </a>
 </p>
-
-
-
