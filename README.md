@@ -126,7 +126,6 @@ Here are some ideas to get you started:
     <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true"/>
   </a>
 </p>
-<br/>
 <br>
 
 <a href="#">
@@ -161,4 +160,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Work Together</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=900px)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
