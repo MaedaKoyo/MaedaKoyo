@@ -127,12 +127,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br/>
+<br>
 
 <a href="#">
   <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
 </a>
-<br />
-<br />
+<br>
+<br>
+<br>
+
 
 <p align="left">
   <a href="#">
@@ -149,10 +152,10 @@ Here are some ideas to get you started:
 </p> -->
 <p align="left">
   <a href="#">
-    <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" height="180px" />
+    <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
   </a>
   <a href="#">
-    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" height="180px" />
+    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" weight="400px" />
   </a>
 </p>
 <br/>
