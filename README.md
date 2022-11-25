@@ -136,17 +136,17 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/0-profile-details.svg" height="180px" />
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" />
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="180px" />
   </a>
   <a href="#">
     <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="180px" />
   </a>
-</p>
+</p> -->
 <p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" height="180px" />
