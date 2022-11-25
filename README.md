@@ -134,7 +134,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-<br>
 
 
 <p align="left">
@@ -150,16 +149,16 @@ Here are some ideas to get you started:
     <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="180px" />
   </a>
 </p> -->
-<p align="left">
+<!-- <p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
   </a>
   <a href="#">
     <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" weight="400px" />
   </a>
-</p>
+</p> -->
 <br/>
 
 <h3 align="left">Work Together</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=610)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=900px)
