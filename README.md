@@ -120,16 +120,16 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-    <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react&langs_count=6" />
+    <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=chartreuse-dark&langs_count=6" />
   </a>
   <a href="#">
-    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true&include_all_commits=true&count_private=false"/>
+    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=false"/>
   </a>
 </p>
 <br>
 
 <a href="#">
-  <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=nord&no-frame=true&column=7&margin-w=10" />
+  <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=algolia&no-frame=true&column=7&margin-w=10&no-bg=true" />
 </a>
 <br>
 <br>
@@ -137,25 +137,25 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%"/>
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
   </a>
 </p>
-<!-- <p align="left">
+<p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="180px" />
   </a>
   <a href="#">
     <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="180px" />
   </a>
-</p> -->
-<p align="left">
+</p>
+<!-- <p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
   </a>
   <a href="#">
     <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/4-productive-time.svg" weight="400px" />
   </a>
-</p>
+</p> -->
 <br/>
 
 <h3 align="left">Work Together</h3>
