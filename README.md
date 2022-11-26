@@ -156,7 +156,8 @@ Here are some ideas to get you started:
     <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
   </a>
 </p> -->
-<br/>
+<br>
+<br>
 
 <h3 align="left">Work Together</h3>
 
