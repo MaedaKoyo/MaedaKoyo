@@ -133,11 +133,12 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
+<br>
 
 
 <p align="left">
   <a href="#">
-    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
   </a>
 </p>
 <!-- <p align="left">
