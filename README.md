@@ -120,12 +120,11 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-    <img alt="Top Languages Card" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react" />
-    <img alt="GitHub Status Card" width="50%" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true&include_all_commits=true&count_private=false"/>
+    <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=react&langs_count=6" />
   </a>
-  <!-- <a href="#">
-    
-  </a> -->
+  <a href="#">
+    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=react&show_icons=true&include_all_commits=true&count_private=false"/>
+  </a>
 </p>
 <br>
 
