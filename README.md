@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="#">
-  <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=matrix&no-frame=true&column=7&margin-w=10&no-bg=true" />
+  <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=onestar&no-frame=true&column=7&margin-w=10&no-bg=false" />
 </a>
 <br>
 <br>
