@@ -123,7 +123,7 @@ Here are some ideas to get you started:
     <img alt="Top Languages Card" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaedaKoyo&layout=compact&theme=chartreuse-dark&langs_count=6" />
   </a>
   <a href="#">
-    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img alt="GitHub Status Card" height="177px" src="https://github-readme-stats.vercel.app/api?username=MaedaKoyo&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=false"/>
   </a>
 </p>
 <br>
