@@ -154,6 +154,8 @@ Here are some ideas to get you started:
 </p>
 <br> -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaedaKoyo)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Work Together</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
