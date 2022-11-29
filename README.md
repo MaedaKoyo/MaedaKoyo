@@ -142,8 +142,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="left">
-    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" />
-    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" />
+    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" /><img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" />
 </p>
 <!-- <p align="left">
   <a href="#">
