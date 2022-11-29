@@ -141,14 +141,10 @@ Here are some ideas to get you started:
     <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
   </a>
 </p>
-<!-- <p align="left">
-  <a href="#">
-    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="50%" />
-  </a>
-  <a href="#">
-    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="50%" />
-  </a>
-</p> -->
+<p align="left">
+    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" />
+    <img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" />
+</p>
 <!-- <p align="left">
   <a href="#">
     <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="180px" />
@@ -156,8 +152,8 @@ Here are some ideas to get you started:
   <a href="#">
     <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
   </a>
-</p> -->
-<br>
+</p>
+<br> -->
 
 <h3 align="left">Work Together</h3>
 
