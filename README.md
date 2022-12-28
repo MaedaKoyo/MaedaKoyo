@@ -101,8 +101,8 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="60"
-      height="60"
+      width="70"
+      height="70"
     />
   </a>　
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
