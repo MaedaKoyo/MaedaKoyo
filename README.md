@@ -13,13 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Koyo Maeda</h1>
+<h1 align="center">Hi 👋, I'm Maeda Koyo</h1>
 <h3 align="center">A student</h3>
 
 <br/>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left">
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,
+express,ts,nestjs,php" />
+<br/>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,
+mysql,docker,raspberrypi,vscode" />
+
+
+<!-- <p align="left">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
@@ -90,6 +98,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- 
 <p align="left">
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
@@ -121,7 +130,7 @@ Here are some ideas to get you started:
       height="60"
     />
   </a>　
-</p>
+</p> -->
 <br/>
 
 <h3 align="left">Summary</h3>
