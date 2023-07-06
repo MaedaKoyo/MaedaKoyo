@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools</h3>
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,
+<!-- <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,
 express,ts,nestjs,php" />
 <br/>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,
-mysql,docker,raspberrypi,vscode" />
+mysql,docker,raspberrypi,vscode" /> -->
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,express,ts,nestjs,php)
+<br/>
+![My Skills](https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,mysql,docker,raspberrypi,vscode)
 
 
 <!-- <p align="left">
