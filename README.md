@@ -26,7 +26,7 @@ express,ts,nestjs,php" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,
 mysql,docker,raspberrypi,vscode" />
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
 
 
 <!-- <p align="left">
