@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Maeda Koyo</h1>
-<h3 align="center">A student</h3>
+<h3 align="center">A developer</h3>
 
 <br/>
 
