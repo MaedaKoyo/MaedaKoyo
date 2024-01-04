@@ -185,3 +185,14 @@ mysql,docker,raspberrypi,vscode" /> -->
 <h3 align="left">Work Together</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
+
+
+<img
+  src="https://github.com/MaedaKoyo/MaedaKoyo/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
