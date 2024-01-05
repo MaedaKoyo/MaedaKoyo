@@ -16,13 +16,9 @@ jobs:
       # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_7_days"
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
