@@ -162,31 +162,6 @@ mysql,docker,raspberrypi,vscode" /> -->
 <br>
 <br>
 
-
-<p align="left">
-  <a href="#">
-    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
-  </a>
-</p>
-<p align="left">
-    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" /><img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" />
-</p>
-<!-- <p align="left">
-  <a href="#">
-    <img alt="GitHub Profile Summary Cards Language Repo" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="180px" />
-  </a>
-  <a href="#">
-    <img alt="GitHub Profile Summary Cards Stats" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/nord_dark/3-stats.svg" weight="400px" />
-  </a>
-</p>
-<br> -->
-
-
-<h3 align="left">Work Together</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
-
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -211,3 +186,20 @@ No Activity Tracked This Week
 
  Last Updated on 05/01/2024 02:19:45 UTC
 <!--END_SECTION:waka-->
+
+<!--
+<p align="left">
+  <a href="#">
+    <img alt="GitHub Profile Summary Cards Details" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
+  </a>
+</p>
+<p align="left">
+    <img alt="GitHub Profile Summary Cards Language Commit" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" /><img alt="GitHub Profile Summary Cards Productive Time" src="https://raw.githubusercontent.com/MaedaKoyo/MaedaKoyo/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" />
+</p>
+-->
+
+
+
+<h3 align="left">Work Together</h3>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
