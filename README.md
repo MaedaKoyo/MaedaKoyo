@@ -1,140 +1,16 @@
-<!--
-**MaedaKoyo/MaedaKoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Maeda Koyo</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon%20Face.png" alt="Dragon Face" width="30" height="30"/> I'm Maeda Koyo
+</h1>
 <h3 align="center">A developer in Hanoi</h3>
 
 <br/>
 
 <h3 align="left">Languages and Tools</h3>
 
-<!-- <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,
-express,ts,nestjs,php" />
-<br/>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,
-mysql,docker,raspberrypi,vscode" /> -->
-
 ![My Skills](https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,express,ts,nestjs,php)
 <br/>
 ![My Skills](https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,mysql,docker,raspberrypi,vscode)
 
-
-<!-- <p align="left">
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://nodejs.org/ja/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png"
-      alt="nodejs"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="./img/express.png"
-      alt="express"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="python"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="60"
-      height="60"
-    />
-  </a>
-</p>
-
-<!-- 
-<p align="left">
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      width="60"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://spin.atomicobject.com/wp-content/uploads/prisma.jpg.jpg"
-      alt="prisma"
-      height="60"
-    />
-  </a>　
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="70"
-      height="70"
-    />
-  </a>　
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="60"
-      height="60"
-    />
-  </a>　
-</p> -->
 <br/>
 
 <h3 align="left">Summary</h3>
@@ -198,7 +74,7 @@ No Activity Tracked This Week
 -->
 
 
-
+<br>
 <h3 align="left">Work Together</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rillex12&width=880px)
