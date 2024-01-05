@@ -36,6 +36,8 @@
   <img alt="GitHub Trophy" height=""130px src="https://github-profile-trophy.vercel.app/?username=MaedaKoyo&theme=onestar&no-frame=true&column=7&margin-w=11&no-bg=false" />
 </a>
 <br>
+<br>
+<br>
 
 <!--
 <p align="left"><img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="700"></p>
