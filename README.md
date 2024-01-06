@@ -7,9 +7,9 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?theme=dark&i=py,django,js,nodejs,express,ts,nestjs,php)
+![My Skills](https://skillicons.dev/icons?theme=dark&i=py,django,fastapi,flask,js,nodejs,express,ts,nestjs)
 <br/>
-![My Skills](https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,mysql,docker,raspberrypi,vscode)
+![My Skills](https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,mysql,docker,raspberrypi,vscode,php)
 
 <br/>
 
