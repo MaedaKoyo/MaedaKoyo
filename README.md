@@ -11,6 +11,10 @@
 <br/>
 ![My Skills](https://skillicons.dev/icons?theme=dark&i=aws,azure,graphql,prisma,mysql,docker,raspberrypi,vscode,php)
 
+<p>a bit :D</p>
+
+![My Skills](https://skillicons.dev/icons?theme=dark&i=svelte)
+
 <br/>
 
 <h3 align="left">Summary</h3>
