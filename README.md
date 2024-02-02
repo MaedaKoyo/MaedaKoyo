@@ -14,7 +14,6 @@
 <p>a bit :D</p>
 
 ![My Skills](https://skillicons.dev/icons?theme=dark&i=svelte)
-
 <br/>
 
 <h3 align="left">Summary</h3>
