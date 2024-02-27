@@ -13,7 +13,7 @@
 
 <p>a bit :D</p>
 
-![My Skills](https://skillicons.dev/icons?theme=dark&i=svelte)
+![My Skills](https://skillicons.dev/icons?theme=dark&i=bun,elysia,svelte)
 <br/>
 
 <h3 align="left">Summary</h3>
