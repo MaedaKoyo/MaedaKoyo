@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon%20Face.png" alt="Dragon Face" width="30" height="30"/> I'm Maeda Koyo
 </h1>
-<h3 align="center">A developer in Hanoi</h3>
+<h3 align="center">A PM/PMO in Hanoi</h3>
 
 <br/>
 
