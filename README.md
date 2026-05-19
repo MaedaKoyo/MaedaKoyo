@@ -47,6 +47,27 @@
 -->
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                50 commits          ██████████░░░░░░░░░░░░░░░   39.37 % 
+🌆 Daytime                58 commits          ███████████░░░░░░░░░░░░░░   45.67 % 
+🌃 Evening                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Salesforce               11 mins             ███████████████████████░░   90.78 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+
+💻 Operating System: 
+Mac                      12 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
