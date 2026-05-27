@@ -61,11 +61,11 @@
 
 ```text
 💬 Programming Languages: 
-Salesforce               2 hrs 20 mins       █████████████████████████   98.16 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Salesforce               44 mins             ████████████████████████░   97.73 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 
