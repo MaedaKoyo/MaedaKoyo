@@ -61,10 +61,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     42 mins             ████████████████████████░   94.74 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 
