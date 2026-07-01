@@ -61,10 +61,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
