@@ -61,10 +61,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Salesforce               2 mins              ██████████████░░░░░░░░░░░   57.78 % 
+Other                    1 min               ███████████░░░░░░░░░░░░░░   42.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 
