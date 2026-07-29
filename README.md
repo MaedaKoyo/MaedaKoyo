@@ -47,8 +47,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2014%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -63,13 +61,13 @@
 
 ```text
 💬 Programming Languages: 
-Salesforce               15 hrs 3 mins       ████████████████████████░   96.59 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Salesforce               16 hrs 40 mins      ████████████████████████░   96.90 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Mac                      15 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
