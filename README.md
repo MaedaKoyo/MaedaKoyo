@@ -63,19 +63,33 @@
 
 ```text
 💬 Programming Languages: 
-Salesforce               5 hrs 3 mins        ███████████████████████░░   90.12 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Salesforce               4 hrs 55 mins       █████████████████████░░░░   83.18 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (0.97%)
+
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
