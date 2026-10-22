@@ -63,33 +63,19 @@
 
 ```text
 💬 Programming Languages: 
-Salesforce               1 hr 56 mins        █████████████████░░░░░░░░   69.33 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Salesforce               1 hr 37 mins        ████████████████████░░░░░   79.42 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (2.05%)
-
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
