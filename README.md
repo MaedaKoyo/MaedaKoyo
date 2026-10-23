@@ -63,13 +63,13 @@
 
 ```text
 💬 Programming Languages: 
-Salesforce               1 hr 37 mins        ████████████████████░░░░░   79.42 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Salesforce               2 hrs 40 mins       ██████████████████████░░░   86.53 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
